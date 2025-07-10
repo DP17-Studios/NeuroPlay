@@ -57,10 +57,10 @@ Neuroplay consists of 5 serious games developed in Unity, each targeting differe
 
 ```
 # Clone the repository
-git clone https://github.com/yourusername/neuroplay.git
+git clone https://github.com/DP17-Studios/NeuroPlay.git
 
 # Navigate to the project directory
-cd neuroplay
+cd NeuroPlay
 
 # Install dependencies
 pip install -r requirements.txt
