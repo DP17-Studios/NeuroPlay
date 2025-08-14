@@ -4,7 +4,7 @@ Neuroplay is a platform for serious games with AI-powered backend targeting vari
 
 ## Project Overview
 
-Neuroplay consists of 5 serious games developed in Unity, each targeting different cognitive and health domains, integrated with a Python/Django backend for AI-driven analytics, performance tracking, and smart feedback.
+Neuroplay consists of 4 serious games developed in Unity, each targeting different cognitive and health domains, integrated with a Python/Django backend for AI-driven analytics, performance tracking, and smart feedback.
 
 ## Games
 
@@ -13,12 +13,7 @@ Neuroplay consists of 5 serious games developed in Unity, each targeting differe
 - **Features:** Endless runner format, obstacle dodging, dynamic difficulty adjustment
 - **Backend:** Reaction time data logging, attention consistency scoring, leaderboards
 
-### 2. Emotion Echo - NLP & Voice Game
-- **Domain:** Emotional Health, Depression Monitoring
-- **Features:** Dialogue-based branching story, speech input, emotional state-driven outcomes
-- **Backend:** Sentiment analysis, mood shift graphs, emotion classification
-
-### 3. Memory Maze - Dementia Cognitive Tracker
+### 2. Memory Maze - Dementia Cognitive Tracker
 - **Domain:** Dementia, Memory Rehabilitation
 - **Features:** Maze navigation, pattern/sequence memorization, timed challenges
 - **Backend:** Memory recall accuracy trends, navigation efficiency mapping, error heatmaps
