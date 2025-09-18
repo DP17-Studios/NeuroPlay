@@ -65,7 +65,7 @@ public class DistractionManager : MonoBehaviour
         activeDistractions = 0;
         distractionsTriggered = 0;
         distractionsIgnored = 0;
-        
+
         // Start spawning coroutines
         isSpawning = true;
         StartCoroutine(SpawnVisualDistractions());
