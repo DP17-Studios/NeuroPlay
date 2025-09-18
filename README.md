@@ -8,7 +8,7 @@ Neuroplay consists of 3 serious games developed in Unity, each targeting differe
 
 ## Games
 
-### 1. NeuroSprint - Reaction & Focus Tracker
+### 1. ReactionLights - Reaction & Focus Tracker
 - **Domain:** ADHD, Attention Training
 - **Features:** Endless runner format, obstacle dodging, dynamic difficulty adjustment
 - **Backend:** Reaction time data logging, attention consistency scoring, leaderboards
